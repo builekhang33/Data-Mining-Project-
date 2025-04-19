@@ -1,1 +1,1 @@
-# Data-Mining-Project-
+# Eclat Algorithm
